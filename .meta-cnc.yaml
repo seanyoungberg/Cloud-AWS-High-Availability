@@ -27,11 +27,11 @@ labels:
 # the terraform binary as '--var' options, thus overriding any tfvars entries.
 # Variable names MUST match the names of the defined terraform variables
 variables:
-  - name: access_key
+  - name: AWS_ACCESS_KEY_ID
     description: AWS Access Key
-    default: access_key
-    type_hint: text
-  - name: secret_key
+    default: 
+    type_hint: hidden
+  - name: AWS_SECRET_ACCESS_KEY
     description: AWS Secret Key
     default:
     type_hint: password
