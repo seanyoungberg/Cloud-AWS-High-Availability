@@ -100,7 +100,7 @@ variable "UbuntuRegionMap" {
            "us-west-2"      = "ami-0f5eb23d395788b75"
            "us-east-1"      = "ami-076e36b130f0652ac"
            "us-east-2"      = "ami-0d535dd013b4e7e60"
-           "ca-central-1"   = "ami-09ae60fb5234e5ed6"
+           "ca-central-1"   = "ami-0450191fe0a40157a"
            "eu-west-1"      = "ami-0cd4abf21ff96bfae"
            "eu-west-2"      = "ami-0f4c8d70e56e5eb4c"
            "eu-central-1"   = "ami-046780598f58f083a"
